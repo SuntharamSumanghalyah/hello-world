@@ -8,6 +8,7 @@ import re
 
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+#editing this file to show changes in the 'create_a_copy' branch
 
 #eine Datei erstellen in .csv Format, damit Endprodukt gespeichert werden kann.
 outputfile = open("ThomasMann_Schlagwoerter.csv", "w", encoding="utf-8")
